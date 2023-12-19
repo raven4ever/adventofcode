@@ -8,5 +8,5 @@ if __name__ == '__main__':
     # run part 2
     part2 = resolve_part2('input.txt')
 
-    print(f'Part1 result: {part1}')  # 54630
-    print(f'Part2 result: {part2}')  # 54770
+    print(f'Part1 result: {part1}')  # 1734
+    print(f'Part2 result: {part2}')  # 70387
